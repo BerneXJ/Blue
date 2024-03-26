@@ -58,7 +58,7 @@ def get_file_path(file_name):
 
 # logging configuration
 
-log_file = 'blue.log'
+log_file = get_file_path("blue.log")
 
 if os.path.exists(log_file):
     with open(log_file, 'r') as file:
