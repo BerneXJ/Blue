@@ -260,3 +260,35 @@ AttributeError: 'QMenuBar' object has no attribute 'file_menu'
 2024-03-26 12:39:45,312 - INFO - Tasks saved
 2024-03-26 12:39:51,518 - INFO - Closing BlueApp
 2024-03-26 12:39:53,071 - INFO - BlueApp closed
+2024-03-26 13:12:27,652 - INFO - Initializing BlueApp
+2024-03-26 13:12:27,652 - INFO - Initializing window
+2024-03-26 13:12:27,653 - INFO - Initializing menu
+2024-03-26 13:12:27,664 - INFO - Initializing label
+2024-03-26 13:12:27,669 - INFO - Initializing table
+2024-03-26 13:12:28,119 - INFO - Initializing LCD
+2024-03-26 13:12:28,121 - INFO - Initializing buttons
+2024-03-26 13:12:28,122 - INFO - Initializing line edit
+2024-03-26 13:12:28,125 - INFO - Initializing layout
+2024-03-26 13:12:28,128 - INFO - Initializing style
+2024-03-26 13:12:28,143 - INFO - BlueApp initialized
+2024-03-26 13:12:30,539 - INFO - Performing quick open
+2024-03-26 13:12:30,539 - INFO - Opening tasks from C:\Users\Jerry\AppData\Local\Programs\Python\Python310\tasks.tmpl
+2024-03-26 13:12:30,539 - ERROR - File not found: C:\Users\Jerry\AppData\Local\Programs\Python\Python310\tasks.tmpl
+2024-03-26 13:12:48,370 - INFO - Closing BlueApp
+2024-03-26 13:12:49,204 - INFO - BlueApp closed
+2024-03-26 13:14:34,261 - INFO - Initializing BlueApp
+2024-03-26 13:14:34,261 - INFO - Initializing window
+2024-03-26 13:14:34,262 - INFO - Initializing menu
+2024-03-26 13:14:34,274 - INFO - Initializing label
+2024-03-26 13:14:34,275 - INFO - Initializing table
+2024-03-26 13:14:34,539 - INFO - Initializing LCD
+2024-03-26 13:14:34,540 - INFO - Initializing buttons
+2024-03-26 13:14:34,540 - INFO - Initializing line edit
+2024-03-26 13:14:34,540 - INFO - Initializing layout
+2024-03-26 13:14:34,541 - INFO - Initializing style
+2024-03-26 13:14:34,550 - INFO - BlueApp initialized
+2024-03-26 13:14:36,434 - INFO - Performing quick open
+2024-03-26 13:14:36,434 - INFO - Opening tasks from tasks.tmpl
+2024-03-26 13:14:36,436 - INFO - Tasks opened
+2024-03-26 13:14:38,254 - INFO - Closing BlueApp
+2024-03-26 13:14:39,422 - INFO - BlueApp closed

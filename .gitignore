@@ -1,0 +1,11 @@
+# Ignore all files and directories
+*
+
+# Include .gitignore
+!.gitignore
+
+# Include main.py
+!main.py
+
+# Include tasks.tmpl
+!tasks.tmpl

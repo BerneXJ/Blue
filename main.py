@@ -25,6 +25,37 @@ from PyQt5.QtGui import QFont
 8、切换任务的时候，默认先点击了“Stop”；
 '''
 
+
+
+# utility functions
+
+def valid_total_time(total_time):
+    if len(total_time) != 8:
+        return False
+    if total_time[2] != ":" or total_time[5] != ":":
+        return False
+    if not total_time[0:2].isdigit() or not total_time[3:5].isdigit() or not total_time[6:8].isdigit():
+        return False
+    if int(total_time[0:2]) < 0 or int(total_time[0:2]) > 23:
+        return False
+    if int(total_time[3:5]) < 0 or int(total_time[3:5]) > 59:
+        return False
+    if int(total_time[6:8]) < 0 or int(total_time[6:8]) > 59:
+        return False
+    return True
+
+def get_file_path(file_name):
+    if platform.system() == "Windows":
+        return file_name
+    elif platform.system() == "Darwin":
+        current_dir = os.path.dirname(sys.executable)
+        if not current_dir:
+            current_dir = os.path.dirname(os.path.abspath(__file__))
+        return os.path.join(current_dir, file_name)
+    elif platform.system() == "Linux":
+        logging.error("Linux is not supported")
+        assert False
+
 # logging configuration
 
 log_file = 'blue.log'
@@ -52,30 +83,6 @@ class LogStream:
 
 sys.stdout = LogStream()
 sys.stderr = LogStream()
-
-# utility functions
-
-def valid_total_time(total_time):
-    if len(total_time) != 8:
-        return False
-    if total_time[2] != ":" or total_time[5] != ":":
-        return False
-    if not total_time[0:2].isdigit() or not total_time[3:5].isdigit() or not total_time[6:8].isdigit():
-        return False
-    if int(total_time[0:2]) < 0 or int(total_time[0:2]) > 23:
-        return False
-    if int(total_time[3:5]) < 0 or int(total_time[3:5]) > 59:
-        return False
-    if int(total_time[6:8]) < 0 or int(total_time[6:8]) > 59:
-        return False
-    return True
-
-def get_file_path(file_name):
-    return file_name
-    # current_dir = os.path.dirname(sys.executable)
-    # if not current_dir:
-    #     current_dir = os.path.dirname(os.path.abspath(__file__))
-    # return os.path.join(current_dir, file_name)
 
 # main application
 
