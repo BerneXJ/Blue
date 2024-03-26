@@ -1,0 +1,262 @@
+2024-03-26 11:49:24,970 - INFO - Initializing BlueApp
+2024-03-26 11:49:24,970 - INFO - Initializing window
+2024-03-26 11:49:24,971 - INFO - Initializing menu
+2024-03-26 11:49:24,982 - INFO - Initializing label
+2024-03-26 11:49:24,982 - INFO - Initializing table
+2024-03-26 11:49:25,248 - INFO - Initializing LCD
+2024-03-26 11:49:25,248 - INFO - Initializing buttons
+2024-03-26 11:49:25,249 - INFO - Initializing line edit
+2024-03-26 11:49:25,249 - INFO - Initializing layout
+2024-03-26 11:49:25,249 - INFO - Initializing style
+2024-03-26 11:49:25,260 - INFO - BlueApp initialized
+2024-03-26 11:49:30,716 - INFO - Adding task
+2024-03-26 11:49:34,914 - INFO - Adding task
+2024-03-26 11:49:37,540 - INFO - Performing quick save
+2024-03-26 11:49:37,540 - INFO - Tasks saved
+2024-03-26 11:49:41,228 - INFO - Deleting task
+2024-03-26 11:49:41,228 - INFO - Stopping timer
+2024-03-26 11:49:42,192 - INFO - Deleting task
+2024-03-26 11:49:42,192 - INFO - Stopping timer
+2024-03-26 11:49:43,328 - INFO - Performing quick load
+2024-03-26 11:49:43,332 - INFO - Tasks loaded
+2024-03-26 11:49:48,003 - INFO - Performing quick load
+2024-03-26 11:49:48,004 - INFO - Tasks loaded
+2024-03-26 11:51:37,328 - INFO - Closing BlueApp
+2024-03-26 11:51:38,072 - INFO - BlueApp closed
+2024-03-26 11:55:23,038 - INFO - Initializing BlueApp
+2024-03-26 11:55:23,038 - INFO - Initializing window
+2024-03-26 11:55:23,039 - INFO - Initializing menu
+2024-03-26 11:55:23,049 - INFO - Initializing label
+2024-03-26 11:55:23,050 - INFO - Initializing table
+2024-03-26 11:55:23,314 - INFO - Initializing LCD
+2024-03-26 11:55:23,314 - INFO - Initializing buttons
+2024-03-26 11:55:23,314 - INFO - Initializing line edit
+2024-03-26 11:55:23,314 - INFO - Initializing layout
+2024-03-26 11:55:23,315 - INFO - Initializing style
+2024-03-26 11:55:23,323 - INFO - BlueApp initialized
+2024-03-26 11:55:27,135 - INFO - Performing quick open
+2024-03-26 11:55:27,135 - INFO - Tasks opened
+2024-03-26 11:55:32,814 - INFO - Performing quick open
+2024-03-26 11:55:32,815 - INFO - Tasks opened
+2024-03-26 11:55:34,129 - INFO - Starting timer
+2024-03-26 11:55:38,203 - INFO - Stopping timer
+2024-03-26 11:55:40,075 - INFO - Closing BlueApp
+2024-03-26 11:55:40,805 - INFO - BlueApp closed
+2024-03-26 12:01:08,593 - INFO - Initializing BlueApp
+2024-03-26 12:01:08,593 - INFO - Initializing window
+2024-03-26 12:01:08,594 - INFO - Initializing menu
+2024-03-26 12:01:08,605 - INFO - Initializing label
+2024-03-26 12:01:08,605 - INFO - Initializing table
+2024-03-26 12:01:08,876 - INFO - Initializing LCD
+2024-03-26 12:01:08,876 - INFO - Initializing buttons
+2024-03-26 12:01:08,877 - INFO - Initializing line edit
+2024-03-26 12:01:08,877 - INFO - Initializing layout
+2024-03-26 12:01:08,879 - INFO - Initializing style
+2024-03-26 12:01:08,889 - INFO - BlueApp initialized
+2024-03-26 12:01:12,710 - INFO - Adding task
+2024-03-26 12:01:15,076 - INFO - Starting timer
+2024-03-26 12:01:17,402 - INFO - Deleting task
+2024-03-26 12:01:17,402 - INFO - Stopping timer
+2024-03-26 12:01:19,404 - INFO - Closing BlueApp
+2024-03-26 12:01:20,327 - INFO - BlueApp closed
+2024-03-26 12:03:50,811 - INFO - Initializing BlueApp
+2024-03-26 12:03:50,811 - INFO - Initializing window
+2024-03-26 12:03:50,812 - INFO - Initializing menu
+2024-03-26 12:03:50,823 - INFO - Initializing label
+2024-03-26 12:03:50,823 - INFO - Initializing table
+2024-03-26 12:03:51,103 - INFO - Initializing LCD
+2024-03-26 12:03:51,103 - INFO - Initializing buttons
+2024-03-26 12:03:51,103 - INFO - Initializing line edit
+2024-03-26 12:03:51,103 - INFO - Initializing layout
+2024-03-26 12:03:51,104 - INFO - Initializing style
+2024-03-26 12:03:51,114 - INFO - BlueApp initialized
+2024-03-26 12:03:54,018 - INFO - Adding task
+2024-03-26 12:03:55,409 - INFO - Adding task
+2024-03-26 12:03:58,897 - INFO - Adding task
+2024-03-26 12:04:05,691 - INFO - Clearing tasks
+2024-03-26 12:04:05,691 - INFO - Stopping timer
+2024-03-26 12:04:07,854 - INFO - Adding task
+2024-03-26 12:04:10,641 - INFO - Adding task
+2024-03-26 12:04:12,241 - INFO - Adding task
+2024-03-26 12:04:13,884 - INFO - Clearing tasks
+2024-03-26 12:04:13,884 - INFO - Stopping timer
+2024-03-26 12:04:36,996 - INFO - Closing BlueApp
+2024-03-26 12:04:38,053 - INFO - BlueApp closed
+2024-03-26 12:04:48,411 - INFO - Initializing BlueApp
+2024-03-26 12:04:48,412 - INFO - Initializing window
+2024-03-26 12:04:48,412 - INFO - Initializing menu
+2024-03-26 12:04:48,426 - INFO - Initializing label
+2024-03-26 12:04:48,427 - INFO - Initializing table
+2024-03-26 12:04:48,720 - INFO - Initializing LCD
+2024-03-26 12:04:48,720 - INFO - Initializing buttons
+2024-03-26 12:04:48,720 - INFO - Initializing line edit
+2024-03-26 12:04:48,720 - INFO - Initializing layout
+2024-03-26 12:04:48,721 - INFO - Initializing style
+2024-03-26 12:04:48,730 - INFO - BlueApp initialized
+2024-03-26 12:05:12,953 - INFO - Closing BlueApp
+2024-03-26 12:05:14,630 - INFO - BlueApp closed
+2024-03-26 12:09:25,198 - INFO - Initializing BlueApp
+2024-03-26 12:09:25,198 - INFO - Initializing window
+2024-03-26 12:09:25,199 - INFO - Initializing menu
+2024-03-26 12:09:25,217 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "e:\Code\Blue\main.py", line 367, in <module>
+    blue_app = BlueApp()
+  File "e:\Code\Blue\main.py", line 82, in __init__
+    self.init_menu()
+  File "e:\Code\Blue\main.py", line 178, in init_menu
+    about_action.triggered.connect(self.about)
+AttributeError: 'BlueApp' object has no attribute 'about'
+2024-03-26 12:09:30,404 - INFO - Initializing BlueApp
+2024-03-26 12:09:30,405 - INFO - Initializing window
+2024-03-26 12:09:30,405 - INFO - Initializing menu
+2024-03-26 12:09:30,422 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "e:\Code\Blue\main.py", line 367, in <module>
+    blue_app = BlueApp()
+  File "e:\Code\Blue\main.py", line 82, in __init__
+    self.init_menu()
+  File "e:\Code\Blue\main.py", line 178, in init_menu
+    about_action.triggered.connect(self.about)
+AttributeError: 'BlueApp' object has no attribute 'about'
+2024-03-26 12:09:38,309 - INFO - Initializing BlueApp
+2024-03-26 12:09:38,309 - INFO - Initializing window
+2024-03-26 12:09:38,310 - INFO - Initializing menu
+2024-03-26 12:09:38,327 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "e:\Code\Blue\main.py", line 366, in <module>
+    blue_app = BlueApp()
+  File "e:\Code\Blue\main.py", line 81, in __init__
+    self.init_menu()
+  File "e:\Code\Blue\main.py", line 177, in init_menu
+    about_action.triggered.connect(self.about)
+AttributeError: 'BlueApp' object has no attribute 'about'
+2024-03-26 12:10:17,984 - INFO - Initializing BlueApp
+2024-03-26 12:10:17,984 - INFO - Initializing window
+2024-03-26 12:10:17,985 - INFO - Initializing menu
+2024-03-26 12:10:18,002 - INFO - Initializing label
+2024-03-26 12:10:18,002 - INFO - Initializing table
+2024-03-26 12:10:18,423 - INFO - Initializing LCD
+2024-03-26 12:10:18,423 - INFO - Initializing buttons
+2024-03-26 12:10:18,424 - INFO - Initializing line edit
+2024-03-26 12:10:18,424 - INFO - Initializing layout
+2024-03-26 12:10:18,425 - INFO - Initializing style
+2024-03-26 12:10:18,437 - INFO - BlueApp initialized
+2024-03-26 12:10:19,574 - INFO - Closing BlueApp
+2024-03-26 12:10:20,439 - INFO - BlueApp closed
+2024-03-26 12:14:23,888 - INFO - Initializing BlueApp
+2024-03-26 12:14:23,888 - INFO - Initializing window
+2024-03-26 12:14:23,889 - INFO - Initializing menu
+2024-03-26 12:14:23,899 - INFO - Initializing label
+2024-03-26 12:14:23,899 - INFO - Initializing table
+2024-03-26 12:14:24,180 - INFO - Initializing LCD
+2024-03-26 12:14:24,180 - INFO - Initializing buttons
+2024-03-26 12:14:24,180 - INFO - Initializing line edit
+2024-03-26 12:14:24,181 - INFO - Initializing layout
+2024-03-26 12:14:24,181 - INFO - Initializing style
+2024-03-26 12:14:24,190 - INFO - BlueApp initialized
+2024-03-26 12:14:26,150 - INFO - Closing BlueApp
+2024-03-26 12:14:27,060 - INFO - BlueApp closed
+2024-03-26 12:15:50,040 - INFO - Initializing BlueApp
+2024-03-26 12:15:50,041 - INFO - Initializing window
+2024-03-26 12:15:50,041 - INFO - Initializing menu
+2024-03-26 12:15:50,052 - INFO - Initializing label
+2024-03-26 12:15:50,052 - INFO - Initializing table
+2024-03-26 12:15:50,343 - INFO - Initializing LCD
+2024-03-26 12:15:50,343 - INFO - Initializing buttons
+2024-03-26 12:15:50,343 - INFO - Initializing line edit
+2024-03-26 12:15:50,343 - INFO - Initializing layout
+2024-03-26 12:15:50,344 - INFO - Initializing style
+2024-03-26 12:15:50,350 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "e:\Code\Blue\main.py", line 373, in <module>
+    blue_app = BlueApp()
+  File "e:\Code\Blue\main.py", line 89, in __init__
+    self.init_style()
+  File "e:\Code\Blue\main.py", line 269, in init_style
+    self.file_menu.setStyleSheet(f"QMenu {{ background-color: {color1}; }}")
+AttributeError: 'BlueApp' object has no attribute 'file_menu'
+2024-03-26 12:16:49,524 - INFO - Initializing BlueApp
+2024-03-26 12:16:49,524 - INFO - Initializing window
+2024-03-26 12:16:49,525 - INFO - Initializing menu
+2024-03-26 12:16:49,535 - INFO - Initializing label
+2024-03-26 12:16:49,535 - INFO - Initializing table
+2024-03-26 12:16:49,809 - INFO - Initializing LCD
+2024-03-26 12:16:49,809 - INFO - Initializing buttons
+2024-03-26 12:16:49,809 - INFO - Initializing line edit
+2024-03-26 12:16:49,809 - INFO - Initializing layout
+2024-03-26 12:16:49,810 - INFO - Initializing style
+2024-03-26 12:16:49,814 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "e:\Code\Blue\main.py", line 374, in <module>
+    blue_app = BlueApp()
+  File "e:\Code\Blue\main.py", line 89, in __init__
+    self.init_style()
+  File "e:\Code\Blue\main.py", line 270, in init_style
+    menu_bar.file_menu.setStyleSheet(f"QMenu {{ background-color: {color1}; }}")
+AttributeError: 'QMenuBar' object has no attribute 'file_menu'
+2024-03-26 12:17:19,843 - INFO - Initializing BlueApp
+2024-03-26 12:17:19,843 - INFO - Initializing window
+2024-03-26 12:17:19,844 - INFO - Initializing menu
+2024-03-26 12:17:19,854 - INFO - Initializing label
+2024-03-26 12:17:19,855 - INFO - Initializing table
+2024-03-26 12:17:20,132 - INFO - Initializing LCD
+2024-03-26 12:17:20,132 - INFO - Initializing buttons
+2024-03-26 12:17:20,132 - INFO - Initializing line edit
+2024-03-26 12:17:20,132 - INFO - Initializing layout
+2024-03-26 12:17:20,133 - INFO - Initializing style
+2024-03-26 12:17:20,141 - INFO - BlueApp initialized
+2024-03-26 12:17:40,098 - INFO - Closing BlueApp
+2024-03-26 12:17:41,269 - INFO - BlueApp closed
+2024-03-26 12:17:55,503 - INFO - Initializing BlueApp
+2024-03-26 12:17:55,504 - INFO - Initializing window
+2024-03-26 12:17:55,504 - INFO - Initializing menu
+2024-03-26 12:17:55,515 - INFO - Initializing label
+2024-03-26 12:17:55,515 - INFO - Initializing table
+2024-03-26 12:17:55,800 - INFO - Initializing LCD
+2024-03-26 12:17:55,801 - INFO - Initializing buttons
+2024-03-26 12:17:55,801 - INFO - Initializing line edit
+2024-03-26 12:17:55,801 - INFO - Initializing layout
+2024-03-26 12:17:55,801 - INFO - Initializing style
+2024-03-26 12:17:55,810 - INFO - BlueApp initialized
+2024-03-26 12:18:05,145 - INFO - Closing BlueApp
+2024-03-26 12:18:06,169 - INFO - BlueApp closed
+2024-03-26 12:36:17,734 - INFO - Initializing BlueApp
+2024-03-26 12:36:17,735 - INFO - Initializing window
+2024-03-26 12:36:17,735 - INFO - Initializing menu
+2024-03-26 12:36:17,746 - INFO - Initializing label
+2024-03-26 12:36:17,746 - INFO - Initializing table
+2024-03-26 12:36:18,024 - INFO - Initializing LCD
+2024-03-26 12:36:18,025 - INFO - Initializing buttons
+2024-03-26 12:36:18,025 - INFO - Initializing line edit
+2024-03-26 12:36:18,025 - INFO - Initializing layout
+2024-03-26 12:36:18,025 - INFO - Initializing style
+2024-03-26 12:36:18,037 - INFO - BlueApp initialized
+2024-03-26 12:36:21,663 - INFO - Performing quick open
+2024-03-26 12:36:21,663 - INFO - Opening tasks from C:\Users\Jerry\AppData\Local\Programs\Python\Python310\tasks.tmpl
+2024-03-26 12:36:21,663 - ERROR - File not found: C:\Users\Jerry\AppData\Local\Programs\Python\Python310\tasks.tmpl
+2024-03-26 12:36:49,892 - INFO - Closing BlueApp
+2024-03-26 12:36:50,902 - INFO - BlueApp closed
+2024-03-26 12:39:33,259 - INFO - Initializing BlueApp
+2024-03-26 12:39:33,259 - INFO - Initializing window
+2024-03-26 12:39:33,260 - INFO - Initializing menu
+2024-03-26 12:39:33,270 - INFO - Initializing label
+2024-03-26 12:39:33,271 - INFO - Initializing table
+2024-03-26 12:39:33,542 - INFO - Initializing LCD
+2024-03-26 12:39:33,542 - INFO - Initializing buttons
+2024-03-26 12:39:33,543 - INFO - Initializing line edit
+2024-03-26 12:39:33,543 - INFO - Initializing layout
+2024-03-26 12:39:33,543 - INFO - Initializing style
+2024-03-26 12:39:33,552 - INFO - BlueApp initialized
+2024-03-26 12:39:35,447 - INFO - Performing quick open
+2024-03-26 12:39:35,447 - INFO - Opening tasks from tasks.tmpl
+2024-03-26 12:39:35,447 - INFO - Tasks opened
+2024-03-26 12:39:39,457 - INFO - Performing quick save
+2024-03-26 12:39:39,457 - INFO - Saving tasks to tasks.tmpl
+2024-03-26 12:39:39,458 - INFO - Tasks saved
+2024-03-26 12:39:43,597 - INFO - Adding task
+2024-03-26 12:39:45,311 - INFO - Performing quick save
+2024-03-26 12:39:45,311 - INFO - Saving tasks to tasks.tmpl
+2024-03-26 12:39:45,312 - INFO - Tasks saved
+2024-03-26 12:39:51,518 - INFO - Closing BlueApp
+2024-03-26 12:39:53,071 - INFO - BlueApp closed

@@ -1,0 +1,70 @@
+2024-03-26 12:24:44,801 - INFO - Initializing BlueApp
+2024-03-26 12:24:44,802 - INFO - Initializing window
+2024-03-26 12:24:44,802 - INFO - Initializing menu
+2024-03-26 12:24:44,817 - INFO - Initializing label
+2024-03-26 12:24:44,817 - INFO - Initializing table
+2024-03-26 12:24:45,131 - INFO - Initializing LCD
+2024-03-26 12:24:45,132 - INFO - Initializing buttons
+2024-03-26 12:24:45,132 - INFO - Initializing line edit
+2024-03-26 12:24:45,132 - INFO - Initializing layout
+2024-03-26 12:24:45,132 - INFO - Initializing style
+2024-03-26 12:24:45,141 - INFO - BlueApp initialized
+2024-03-26 12:24:59,489 - INFO - Performing quick open
+2024-03-26 12:24:59,489 - INFO - Tasks opened
+2024-03-26 12:26:05,693 - INFO - Adding task
+2024-03-26 12:26:07,711 - INFO - Performing quick save
+2024-03-26 12:26:07,711 - INFO - Tasks saved
+2024-03-26 12:26:13,933 - INFO - Closing BlueApp
+2024-03-26 12:26:14,804 - INFO - BlueApp closed
+2024-03-26 12:29:13,887 - INFO - Initializing BlueApp
+2024-03-26 12:29:13,887 - INFO - Initializing window
+2024-03-26 12:29:13,888 - INFO - Initializing menu
+2024-03-26 12:29:13,901 - INFO - Initializing label
+2024-03-26 12:29:13,901 - INFO - Initializing table
+2024-03-26 12:29:14,237 - INFO - Initializing LCD
+2024-03-26 12:29:14,237 - INFO - Initializing buttons
+2024-03-26 12:29:14,238 - INFO - Initializing line edit
+2024-03-26 12:29:14,238 - INFO - Initializing layout
+2024-03-26 12:29:14,238 - INFO - Initializing style
+2024-03-26 12:29:14,247 - INFO - BlueApp initialized
+2024-03-26 12:29:17,650 - INFO - Performing quick open
+2024-03-26 12:29:17,650 - INFO - Opening tasks from C:\Users\Jerry\AppData\Local\Temp\_MEI178522\tasks.tmpl
+2024-03-26 12:29:17,651 - INFO - Tasks opened
+2024-03-26 12:29:22,767 - INFO - Adding task
+2024-03-26 12:29:25,055 - INFO - Performing quick save
+2024-03-26 12:29:25,055 - INFO - Saving tasks to C:\Users\Jerry\AppData\Local\Temp\_MEI178522\tasks.tmpl
+2024-03-26 12:29:25,055 - INFO - Tasks saved
+2024-03-26 12:31:14,840 - INFO - Closing BlueApp
+2024-03-26 12:31:15,871 - INFO - BlueApp closed
+2024-03-26 12:37:29,762 - INFO - Initializing BlueApp
+2024-03-26 12:37:29,763 - INFO - Initializing window
+2024-03-26 12:37:29,763 - INFO - Initializing menu
+2024-03-26 12:37:29,778 - INFO - Initializing label
+2024-03-26 12:37:29,778 - INFO - Initializing table
+2024-03-26 12:37:30,092 - INFO - Initializing LCD
+2024-03-26 12:37:30,093 - INFO - Initializing buttons
+2024-03-26 12:37:30,093 - INFO - Initializing line edit
+2024-03-26 12:37:30,094 - INFO - Initializing layout
+2024-03-26 12:37:30,097 - INFO - Initializing style
+2024-03-26 12:37:30,106 - INFO - BlueApp initialized
+2024-03-26 12:37:56,397 - INFO - Performing quick open
+2024-03-26 12:37:56,399 - INFO - Opening tasks from E:\Code\Blue\dist\tasks.tmpl
+2024-03-26 12:37:56,399 - ERROR - File not found: E:\Code\Blue\dist\tasks.tmpl
+2024-03-26 12:38:11,425 - INFO - Closing BlueApp
+2024-03-26 12:38:12,180 - INFO - BlueApp closed
+2024-03-26 12:40:23,120 - INFO - Initializing BlueApp
+2024-03-26 12:40:23,120 - INFO - Initializing window
+2024-03-26 12:40:23,121 - INFO - Initializing menu
+2024-03-26 12:40:23,133 - INFO - Initializing label
+2024-03-26 12:40:23,134 - INFO - Initializing table
+2024-03-26 12:40:23,461 - INFO - Initializing LCD
+2024-03-26 12:40:23,462 - INFO - Initializing buttons
+2024-03-26 12:40:23,462 - INFO - Initializing line edit
+2024-03-26 12:40:23,462 - INFO - Initializing layout
+2024-03-26 12:40:23,463 - INFO - Initializing style
+2024-03-26 12:40:23,472 - INFO - BlueApp initialized
+2024-03-26 12:40:34,299 - INFO - Performing quick open
+2024-03-26 12:40:34,299 - INFO - Opening tasks from tasks.tmpl
+2024-03-26 12:40:34,300 - INFO - Tasks opened
+2024-03-26 12:40:37,476 - INFO - Closing BlueApp
+2024-03-26 12:40:38,960 - INFO - BlueApp closed
